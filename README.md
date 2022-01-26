@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Spotify](spotify-playing-kyi9f6cw8-osss2046.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[<img src="spotify-playing-kyi9f6cw8-osss2046.vercel.app" alt="oss2046 spotify playing" width="350/>()
 
 <!-- LINKS -->
 [website]: https://www.google.cl/
