@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi [osss2046][website] here 👋
 
-
-**osss2046/osss2046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![Twitter Follow](https://img.shields.io/twitter/follow/Osssssssscar?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<!-- LINKS -->
+[website]: https://www.google.cl/
