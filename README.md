@@ -3,9 +3,7 @@
 
 Here are some ideas to get you started:
 
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Osssssssscar?color=1DA1F2&logo=twitter&style=for-the-badge">
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/Osssssssscar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Osssssssscar)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
