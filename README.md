@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-[![Spotify](https://spotify-playing2-hqg8woxen-osss2046.vercel.app)](https://open.spotify.com/user/12149246790?si=6010cc35717e4f38)
+[![Spotify](https://spotify-playing-osss2046.vercel.app/)](https://open.spotify.com/user/12149246790?si=6010cc35717e4f38)
 
 <!-- LINKS -->
 [website]: https://www.google.cl/
