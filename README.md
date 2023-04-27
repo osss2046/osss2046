@@ -9,6 +9,6 @@
 
 
 
-([![Spotify](https://open.spotify.com/user/12149246790?si=6010cc35717e4f38)
+![Spotify](https://open.spotify.com/user/12149246790?si=6010cc35717e4f38)
 
 </div>
