@@ -1,5 +1,5 @@
 <div align="center">
-### Hi [osss2046][website] here 👋👋
+### Hi 👋👋
 
 
 
