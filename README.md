@@ -1,4 +1,4 @@
-<div style="background-image: url('[img_girl.jpg](https://i.pinimg.com/originals/8d/b0/e5/8db0e5b032d2b48703619ad61d0b84ac.gi)');"> <h1 align="center">Hola 👋, soy Oscar Acuña</h1>
+<div style="background-image: url('https://i.pinimg.com/originals/8d/b0/e5/8db0e5b032d2b48703619ad61d0b84ac.gi');"> <h1 align="center">Hola 👋, soy Oscar Acuña</h1>
 
  </div>
 
