@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.pinterest.com/ext/embed.html?id=1618549860709483)]
+[![MasterHead](<iframe src="https://assets.pinterest.com/ext/embed.html?id=1618549860709483" height="714" width="345" frameborder="0" scrolling="no" ></iframe>)]
 
 <h1 align="center">Hi 👋, I'm Oscar Acuña</h1>
 
