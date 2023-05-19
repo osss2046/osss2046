@@ -7,7 +7,9 @@
 
 
 
-
-![Spotify](https://open.spotify.com/user/12149246790?si=6010cc35717e4f38)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
+  <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="oscar2046" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/oscar2046?trk=profile-badge">Oscar Acuña Rivas</a></div>
+              
 
 </div>
