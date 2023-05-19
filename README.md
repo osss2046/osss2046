@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.pinterest.com/ext/embed.html?id=1618549860709483")]
+[![MasterHead](https://assets.pinterest.com/ext/embed.html?id=1618549860709483)]
 
 <h1 align="center">Hi 👋, I'm Oscar Acuña</h1>
 
