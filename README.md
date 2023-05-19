@@ -8,6 +8,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Osssssssscar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Osssssssscar)
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 
@@ -18,5 +19,4 @@
 
 </div>
   </body>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </html>
