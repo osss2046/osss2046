@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ae/d2/40/aed240753c1ff99c51b98c946897585c.jpg)]
+[![MasterHead](https://i.pinimg.com/originals/8d/b0/e5/8db0e5b032d2b48703619ad61d0b84ac.gif)]
 
 <h1 align="center">Hi 👋, I'm Oscar Acuña</h1>
 
