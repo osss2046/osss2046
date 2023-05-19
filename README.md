@@ -1,5 +1,7 @@
-<div align="center"><img src="https://i.pinimg.com/originals/8d/b0/e5/8db0e5b032d2b48703619ad61d0b84ac.gif" width="800" hight="200"/>
-<h1 align="center">Hola 👋, soy Oscar Acuña</h1>
+<div style="background-image: url('[img_girl.jpg](https://i.pinimg.com/originals/8d/b0/e5/8db0e5b032d2b48703619ad61d0b84ac.gi)');"> <h1 align="center">Hola 👋, soy Oscar Acuña</h1>
+
+ </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osss2046&label=Profile%20views&color=0e75b6&style=flat" alt="osss2046" /> </p>
 
@@ -14,4 +16,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osss2046&show_icons=true&locale=en&layout=compact" alt="osss2046" /></p>
 
 
- </div>
