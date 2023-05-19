@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Acuña</h1>
-<img align="right" alt="Coding" width="400"  src="https://assets.pinterest.com/ext/embed.html?id=1618549860709483.gif"> frameborder="0" scrolling="no" ></iframe>
+<img align="right" alt="Coding" width="400"  src="https://assets.pinterest.com/ext/embed.html?id=1618549860709483"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osss2046&label=Profile%20views&color=0e75b6&style=flat" alt="osss2046" /> </p>
 
