@@ -1,2 +1,2 @@
 
-<h1> Welcome, my name is Oscar and I have a passion for science and code.</h1>
+<h1> Hey there! I'm Oscar, all about exploring the realms of science and diving into the world of coding. 🚀</h1>
